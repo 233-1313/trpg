@@ -1,0 +1,14 @@
+@font-face {
+       font-family: 'STKAITI';
+       src: url('/fonts/STKAITI.TTF') format('truetype');
+   }
+
+em, .cm-em {
+    font-family: 'STKAITI';
+    font-style: normal;  
+}
+
+h1, h2, h3, h4, h5, h6 {
+    font-family: 'STKAITI'; /* 应用自定义字体 */
+    font-weight: normal; /* 可根据需要调整字体粗细 */
+}
