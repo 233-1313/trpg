@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"aliases":["后果"],"permalink":"/lit-m/term/consequnces/","dgPassFrontmatter":true}
+{"dg-publish":true,"permalink":"/lit-m/term/consequnces/","noteIcon":""}
 ---
 
 故事的负面发展，情况更为复杂，处境更加危险。
