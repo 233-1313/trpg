@@ -1,6 +1,6 @@
 @font-face {
        font-family: 'STKAITI';
-       src: url('/fonts/STKAITI.TTF') format('truetype');
+       src: url('../fonts/STKAITI.TTF') format('truetype');
    }
 
 em, .cm-em {
