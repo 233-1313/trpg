@@ -2,7 +2,7 @@
 {"dg-publish":true,"permalink":"/lit-m/1/homepage/","tags":["gardenEntry"]}
 ---
 
-![_2BO~3QFFSMP11}9D8LJ6$M.jpg](/img/user/%E9%9B%BE%E4%B8%AD%E5%A5%87%E8%B0%88LitM%20-%20%E6%88%BF%E8%A7%84/%E7%B4%A0%E6%9D%90/_2BO~3QFFSMP11%7D9D8LJ6$M.jpg)
+<img src="https://pic.imgdb.cn/item/66dee3f3d9c307b7e929bc6a.jpg" alt="_2BO~3QFFSMP11}9D8LJ6$M.jpg">
 
 *初来乍到，是吧？*
 *哈，瞧你那茸毛竖起的样子，先坐下，喝杯草根茶暖暖身子吧。*
