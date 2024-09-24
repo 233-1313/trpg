@@ -3,6 +3,6 @@
 ---
 
 # 招募中
-[[公告Announcement/招募中On-going/山村龙患\|山村龙患]]
+[[公告Announcement/招募中On-going/10.3山村龙患\|10.3山村龙患]]
 
 # 战报
